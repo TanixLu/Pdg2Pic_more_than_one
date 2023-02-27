@@ -1,2 +1,2 @@
 # Pdg2Pic_more_than_one
-Pdg2Pic多开脚本
+Pdg2Pic是一个将pdg文件转为图片或pdf文件的GUI软件，此脚本实现了该软件的多开自动化
